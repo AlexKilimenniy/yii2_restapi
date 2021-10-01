@@ -70,3 +70,7 @@ environments/            contains environment-based overrides
 ```
 открыть консоль -> перейти в корень проекта -> выполнить команду `vendor/bin/codecept run -- -c api`
 ```
+
+
+
+<h3>PHP 7.1.33-41</h3>
